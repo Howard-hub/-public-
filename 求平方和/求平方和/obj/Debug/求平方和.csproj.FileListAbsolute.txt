@@ -1,0 +1,9 @@
+C:\Users\user\Source\Repos\求平方和\求平方和\bin\Debug\求平方和.exe.config
+C:\Users\user\Source\Repos\求平方和\求平方和\bin\Debug\求平方和.exe
+C:\Users\user\Source\Repos\求平方和\求平方和\bin\Debug\求平方和.pdb
+C:\Users\user\Source\Repos\求平方和\求平方和\obj\Debug\求平方和.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\求平方和\求平方和\obj\Debug\求平方和.Form1.resources
+C:\Users\user\Source\Repos\求平方和\求平方和\obj\Debug\求平方和.Properties.Resources.resources
+C:\Users\user\Source\Repos\求平方和\求平方和\obj\Debug\求平方和.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\求平方和\求平方和\obj\Debug\求平方和.exe
+C:\Users\user\Source\Repos\求平方和\求平方和\obj\Debug\求平方和.pdb
